@@ -9,3 +9,7 @@
 
 * Sphere 球体。プレイヤーとして使用。
 * Cylinder 円柱。 Stage2 で使用  
+
+### 実際のプロジェクト
+http://fast-uploader.com/file/7056093554806/
+pass: hoge1234
